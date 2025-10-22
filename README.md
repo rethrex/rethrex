@@ -1,16 +1,55 @@
-## Hi there 👋
+<h1 align="center">⚡ RΞTHRΞX ⚡</h1>
+<p align="center">
+  <b>Cybersecurity | Automation | Reverse Engineering</b><br>
+  <i>Building. Solving. Evolving.</i>
+</p>
 
-<!--
-**rethrex/rethrex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🧠 About Me
+```bash
+> Developer : RΞTHRΞX  
+> Passion   : Building new things & solving real problems  
+> Motto : "Think Deep. Break Systems. Build Empilogic
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
+---
+
+🚀 What I Do
+
+🧩 Build small tools and experiments
+
+🧠 Solve logic based challenges
+
+⚙️ Explore cybersecurity & automation
+
+🌱 Learn something new every single day
+
+
+
+---
+
+🔧 Current Focus
+
+Practicing Python & Bash scripting
+
+Exploring problem solving & automation
+
+Understanding how systems actually work
+
+
+
+---
+
+📂 Repository Info
+
+This repository contains my personal projects, practice scripts, and problem solving experiments.
+Every idea here is a step toward becoming a better developer and security learner. 🖤
+
+> I don’t copy, I rebuild. ⚙️
+
+🖤 Connect With Me
+
+💬 Always open to learning, collaboration, and creative problem solving.
+
+🌐 GitHub → github.com/rethrex
