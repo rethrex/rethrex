@@ -1,7 +1,6 @@
 <h1 align="center">⚡ RΞTHRΞX ⚡</h1>
 <p align="center">
-  <b>Cybersecurity | Automation | Reverse Engineering</b><br>
-  <i>Building. Solving. Evolving.</i>
+  <b> Building | Solving | Evolving</b><br>
 </p>
 
 ---
@@ -46,10 +45,10 @@ Understanding how systems actually work
 This repository contains my personal projects, practice scripts, and problem solving experiments.
 Every idea here is a step toward becoming a better developer and security learner. 🖤
 
-> I don’t copy, I rebuild. ⚙️
+### 🖤 Connect With Me
 
-🖤 Connect With Me
+💬 Always open to learning and creative problem solving.
 
-💬 Always open to learning, collaboration, and creative problem solving.
-
-🌐 GitHub → github.com/rethrex
+[![GitHub](https://img.shields.io/badge/GitHub-Rethrex-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rethrex)
+[![Instagram](https://img.shields.io/badge/Instagram-@rethrex-e4405f?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rethrex)
+[![Twitter](https://img.shields.io/badge/Twitter-@rethrex-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/rethrex)
