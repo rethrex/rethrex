@@ -9,7 +9,7 @@
 ```bash
 > Developer : RΞTHRΞX  
 > Passion   : Building new things & solving real problems  
-> Motto : "Think Deep. Break Systems. Build Empires."
+> Motto     : "Think Deep. Break Systems. Build Empires"
 
 ```
 ---
